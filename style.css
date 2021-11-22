@@ -13,3 +13,9 @@ h2{
     color: blueviolet;
     font-size: 30px;
 }
+
+.project{
+    border: 20px solid blue;
+    border-radius: 30px;
+    margin: 10px;
+}
